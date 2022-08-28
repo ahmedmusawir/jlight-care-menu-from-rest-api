@@ -1,0 +1,18 @@
+/*=============================
+=            GLOBALS            =
+=============================*/
+@import 'global';
+@import 'custom';
+// body {
+//   display: none;
+// }
+
+#JLIGHT-MENU-BOX {
+  background-color: black;
+  color: white !important;
+
+  p {
+    color: #e3e3e3;
+    font-size: 0.8rem;
+  }
+}
